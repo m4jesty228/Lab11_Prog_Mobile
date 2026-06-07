@@ -1,4 +1,4 @@
-# Lab — Google Maps Android : Localisation temps réel et marqueurs dynamiques (Java)
+# Lab11 — Google Maps Android : Localisation temps réel et marqueurs dynamiques (Java)
 
 **Auteur :** DOSSAH Yao Landry  
 **Filière :** Génie CyberDéfense et Systèmes de Télécommunications Embarquées (GCDSTE)  
